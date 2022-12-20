@@ -1,1 +1,2 @@
-# alx-frontend-javascript
+# Alx-frontend-javascript
+© Tijani Mukhtar Akande 2022
